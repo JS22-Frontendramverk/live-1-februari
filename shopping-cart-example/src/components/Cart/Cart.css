@@ -1,0 +1,16 @@
+.cart {
+    margin-top: 1rem;
+}
+
+.cart__link {
+    color: #ed6896;
+    text-decoration: none;
+}
+
+.cart__counter {
+    margin-left: 0.5rem;
+    border: 1px solid #dcdcdc;
+    padding: 0.2rem 0.5rem;
+    border-radius: 50%;
+    background-color: #fff;
+}
